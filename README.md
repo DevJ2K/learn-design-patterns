@@ -19,3 +19,12 @@ Design patterns are fundamental in the life of a developer.
 
 - [ ] Adapter : ...
 - [ ] Facade : Simplify using simple method.
+
+
+# Type of anti-design patterns
+- [ ] Spaghetti Code
+- [ ] Golden Hammer
+- [ ] Boat Anchor
+- [ ] Dead Code
+- [ ] Proliferation of Code
+- [ ] God Object
